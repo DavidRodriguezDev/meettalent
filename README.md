@@ -106,4 +106,4 @@ Como empresa podemos cerrar las ofertas que hemos creado en cualquier momento (s
 
 ## Agradecimientos y contrbuciones
 
-@DavidRodriguezDev por ayudarme con el proyecto, y encargarse sobretodo del diseño y alguna funcionalidad.
+@krst221 por el trabajo en equipo, y encargarse del backend y ayuda en la funcionalidad.
